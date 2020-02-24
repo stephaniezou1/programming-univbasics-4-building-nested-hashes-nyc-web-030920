@@ -24,7 +24,7 @@ def monopoly_with_third_tier
         :four_piece_owned => 200
       },
       :names = {}
-    }
+    },
   }
 end
 
